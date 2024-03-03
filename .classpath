@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="examshow/webmail/build/generated/src"/>
+	<classpathentry kind="src" path="examshow/webmail/build/web/WEB-INF/lib/webmail/build/generated/src"/>
+	<classpathentry kind="src" path="examshow/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/webmail/build/generated/src"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/javaee-api-6.0.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/javaee-web-api-6.0.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/javaee-api-6.0.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/javaee-web-api-6.0.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/javaee-api-6.0.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/javaee-web-api-6.0.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/javaee-api-6.0.jar"/>
+	<classpathentry kind="lib" path="examshow/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/webmail/build/web/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="standard.jar"/>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>
